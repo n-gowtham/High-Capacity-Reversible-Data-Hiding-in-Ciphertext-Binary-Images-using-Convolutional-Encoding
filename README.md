@@ -15,7 +15,7 @@
 ## Code and Results
 - Provided a framework where binary(/grayscale) image, secret text are taken as inputs and encoded image is produced (from block diagram). Then, viterbi decoder along with decryption is used at the receiver to recover the binary image and secret text.
 - The results of the code are already saved inside the jupyter notebook named 'HighCapacityConvolutionalEncoder.ipynb'.
-- Embedding rate of 87.5% is achieved using 15:16 convolutional encoder. (which surpasses many algorithms in literature, refer to Fig.3 in https://ieeexplore.ieee.org/document/10947549)
+- Embedding rate of **87.5%** is achieved using 15:16 convolutional encoder. (which surpasses many algorithms in literature, refer to Fig.3 in https://ieeexplore.ieee.org/document/10947549)
 
 ## Key Learnings
 - Implemented Otsu's thresholding algorithm to convert from grayscale image to binary image.
