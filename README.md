@@ -1,4 +1,4 @@
-# High-Capacity-Reversible-Data-Hiding-using-Convolutional-Encoding
+# High-Capacity-Reversible-Data-Hiding-in-Ciphertext-Binary-Images-using-Convolutional-Encoding
 
 ## Block Diagram
 ![image alt](https://github.com/n-gowtham/High-Capacity-Reversible-Data-Hiding-using-Convolutional-Encoding/blob/master/BlockDiagram.png)
